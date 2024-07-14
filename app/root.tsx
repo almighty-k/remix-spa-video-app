@@ -1,4 +1,5 @@
 import {
+  ClientActionFunctionArgs,
   Links,
   Meta,
   Outlet,
